@@ -8,7 +8,7 @@ types, locations, item categories and fat content.
 
 ## Dashboard Preview
 
-![Blinkit Sales Dashboard](preview/dashboard.png)
+![Blinkit Sales Dashboard](preview/gihub.png)
 
 ---
 
